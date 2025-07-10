@@ -3,7 +3,11 @@
   <h1>
     Hi there, I'm Aravind P 👋
   </h1>
-  <p>I'm a passionate Computer Science student from Kerala, India, with a love for building beautiful, intuitive, and high-performance web applications. I thrive at the intersection of development and design, and I'm always eager to learn new technologies.</p>
+  <p>
+    I'm a Computer Science and Engineering student at Amrita Vishwa Vidyapeetham with a deep passion for building intelligent systems.
+    <br>
+    My focus is on **Artificial Intelligence**, particularly in the realms of **Generative AI** and **Machine Learning**. I enjoy creating practical solutions that solve real-world problems.
+  </p>
 </div>
 
 <!-- Socials -->
@@ -11,8 +15,11 @@
   <a href="https://www.linkedin.com/in/aravind-p-5b1110256/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://aravindp602.github.io/portfolio/" target="_blank">
+  <a href="https://aravindp602.github.io/aravindp602.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio">
+  </a>
+  <a href="mailto:aravindpadmanabhan71@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
@@ -20,60 +27,61 @@
 
 ### 👨‍💻 About Me
 
--   🔭 I’m currently working on perfecting my personal portfolio and diving deeper into backend technologies.
--   🌱 I’m currently learning **Advanced Node.js concepts** and exploring **Deep Learning with Python**.
--   👯 I’m looking to collaborate on open-source projects related to **web development, AI, or developer tools**.
--   💬 Ask me about **Python, JavaScript, UI/UX design principles,** and building interactive web apps.
--   📫 How to reach me: **aravindpadmanabhan71@gmail.com**
--   ⚡ Fun fact: I'm exploring **game development with C# and Unity** in my free time!
+-    internship experience at **Mu Sigma** developing a generative AI chatbot with STT/TTS and API integration.
+-   🔭 I’m currently building a **Multilingual Automated Code Evaluation System** with plagiarism detection.
+-   🌱 I’m passionate about continuous learning and recently completed certifications in **AI Agent Development (IIT Madras)** and **Machine Learning (Coursera)**.
+-   💬 Ask me about **Python, AI/ML concepts, system design,** or building full-stack applications.
+-   📫 You can reach me at: **aravindpadmanabhan71@gmail.com**
 
 ---
 
 ### 🛠️ My Tech Stack
 
-Here are some of the technologies I'm proficient in and enjoy working with:
-
 <p align="center">
-  <strong>Languages:</strong><br>
+  <strong>Languages & Core Skills:</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+</p>
+
+<p align="center">
+  <strong>AI / Machine Learning:</strong><br>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+</p>
+
+<p align="center">
+  <strong>Web & Backend:</strong><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-<p align="center">
-  <strong>Frontend & Frameworks:</strong><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-</p>
-
-<p align="center">
-  <strong>Backend & Databases:</strong><br>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 <p align="center">
   <strong>Tools & Platforms:</strong><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
 </p>
 
 ---
 
 ### ✨ Featured Projects
 
-Here are a couple of projects I'm particularly proud of. You can find more on my [portfolio website](https://aravindp602.github.io/portfolio/)!
+A few highlights from my work. You can find more on my [portfolio website](https://aravindp602.github.io/aravindp602.github.io/)!
 
-| Project | Description | Tech Stack | Links |
+| Project | Description | Key Technologies | Links |
 |---|---|---|---|
-| **Newsify - Personalized News Aggregator** | An intelligent news app built with Streamlit that uses TF-IDF and Cosine Similarity to recommend articles based on user interactions. Features secure Firebase authentication and a real-time "For You" feed. | `Streamlit` `Python` `Firebase` `Scikit-learn` `NewsAPI` | [**Code**](https://github.com/aravindp602/personalised-news-app) |
-| **Personal Portfolio Website** | The very page you might have just come from! A fully responsive portfolio built from scratch with a focus on UI/UX, advanced animations, and performance. Features a theme toggle, custom cursor, and project carousel. | `HTML5` `CSS3` `JavaScript` `Vanilla-Tilt.js` `Typed.js` | [**Live Demo**](https://aravindp602.github.io/portfolio/) <br> [**Code**](https://github.com/aravindp602/portfolio) |
+| **AI-Powered News Aggregator** | An intelligent news platform that delivers a personalized "For You" feed using ML-based recommendations, user preference filtering, and secure login via Firebase. | `Python`, `Streamlit`, `Firebase`, `Scikit-learn`, `NewsAPI` | [**Code**](https://github.com/aravindp602/personalised-news-app) |
+| **Multilingual Code Evaluation System**| _(In Development)_ A secure system for automated code execution, feedback generation, and plagiarism detection, designed for academic use. | `Python`, `Docker`, `JavaScript` | *(Repo Private)* |
+| **P2P Disaster Response Network** | A decentralized peer-to-peer system for disaster communication, resource sharing, and location tracking, designed to work in low-connectivity environments. | `Python`, `Networking` | *(Repo Private)* |
+| **Personal Portfolio Website** | The very page you might have just come from! A fully responsive portfolio built from scratch with a focus on UI/UX, advanced animations, and performance. | `HTML5`, `CSS3`, `JavaScript` | [**Live Demo**](https://aravindp602.github.io/aravindp602.github.io/) <br> [**Code**](https://github.com/aravindp602/aravindp602.github.io) |
 
 ---
 
