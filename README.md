@@ -76,7 +76,7 @@ A few highlights from my work. You can find more on my [portfolio website](https
 | Project | Description | Key Technologies | Links |
 |---|---|---|---|
 | **AI-Powered News Aggregator** | An intelligent news platform that delivers a personalized "For You" feed using ML-based recommendations, user preference filtering, and secure login via Firebase. | `Python`, `Streamlit`, `Firebase`, `Scikit-learn`, `NewsAPI` | [**Code**](https://github.com/aravindp602/personalised-news-app) |
-| **Personal Portfolio Website** | The very page you might have just come from! A fully responsive portfolio built from scratch with a focus on UI/UX, advanced animations, and performance. | `HTML5`, `CSS3`, `JavaScript` | [**Live Demo**](https://aravindp602.github.io/portfolio/) <br> [**Code**](https://aravindp602.github.io/portfolio/) |
+| **Personal Portfolio Website** | The very page you might have just come from! A fully responsive portfolio built from scratch with a focus on UI/UX, advanced animations, and performance. | `HTML5`, `CSS3`, `JavaScript` | [**Live Demo**](https://aravindp602.github.io/portfolio/) <br> |
 
 ---
 
