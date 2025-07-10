@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/aravind-p-5b1110256/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://aravindp602.github.io/aravindp602.github.io/" target="_blank">
+  <a href="https://aravindp602.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio">
   </a>
   <a href="mailto:aravindpadmanabhan71@gmail.com">
