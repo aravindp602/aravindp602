@@ -30,7 +30,6 @@
 -    internship experience at **Mu Sigma** developing a generative AI chatbot with STT/TTS and API integration.
 -   🔭 I’m currently building a **Multilingual Automated Code Evaluation System** with plagiarism detection.
 -   🌱 I’m passionate about continuous learning and recently completed certifications in **AI Agent Development (IIT Madras)** and **Machine Learning (Coursera)**.
--   💬 Ask me about **Python, AI/ML concepts, system design,** or building full-stack applications.
 -   📫 You can reach me at: **aravindpadmanabhan71@gmail.com**
 
 ---
