@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9hCsO6hlK6de/giphy.gif" width="100"/>
   <h1>
     Hi there, I'm Aravind P 👋
   </h1>
@@ -14,7 +15,7 @@
   <a href="https://www.linkedin.com/in/aravind-p-5b1110256/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://aravindp602.github.io/portfolio/" target="_blank">
+  <a href="https://aravindp602.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio">
   </a>
   <a href="mailto:aravindpadmanabhan71@gmail.com">
@@ -26,9 +27,10 @@
 
 ### 👨‍💻 About Me
 
--    internship experience at **Mu Sigma** developing a generative AI chatbot with STT/TTS and API integration.
--   🔭 I’m currently building a **Multilingual Automated Code Evaluation System** with plagiarism detection.
+-   🏆 Gained hands-on experience as an **Intern at Mu Sigma**, developing a generative AI chatbot with STT/TTS and API integration.
+-   🔭 I’m currently building complex systems like a **Multilingual Automated Code Evaluator** and a **P2P Disaster Response Network**.
 -   🌱 I’m passionate about continuous learning and recently completed certifications in **AI Agent Development (IIT Madras)** and **Machine Learning (Coursera)**.
+-   💬 Ask me about **Python, AI/ML concepts, system design,** or building full-stack applications.
 -   📫 You can reach me at: **aravindpadmanabhan71@gmail.com**
 
 ---
@@ -40,6 +42,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
@@ -71,12 +74,13 @@
 
 ### ✨ Featured Projects
 
-A few highlights from my work. You can find more on my [portfolio website](https://aravindp602.github.io/aravindp602.github.io/)!
+A few highlights from my work. You can find more details on my [portfolio website](https://aravindp602.github.io/)!
 
 | Project | Description | Key Technologies | Links |
 |---|---|---|---|
 | **AI-Powered News Aggregator** | An intelligent news platform that delivers a personalized "For You" feed using ML-based recommendations, user preference filtering, and secure login via Firebase. | `Python`, `Streamlit`, `Firebase`, `Scikit-learn`, `NewsAPI` | [**Code**](https://github.com/aravindp602/personalised-news-app) |
-| **Personal Portfolio Website** | The very page you might have just come from! A fully responsive portfolio built from scratch with a focus on UI/UX, advanced animations, and performance. | `HTML5`, `CSS3`, `JavaScript` | [**Live Demo**](https://aravindp602.github.io/portfolio/) <br> |
+
+| **Personal Portfolio Website** | The very page you might have just come from! A fully responsive portfolio built from scratch with a focus on UI/UX, advanced animations, and performance. | `HTML5`, `CSS3`, `JavaScript` | [**Live Demo**](https://aravindp602.github.io/) <br> [**Code**](https://github.com/aravindp602/aravindp602.github.io) |
 
 ---
 
